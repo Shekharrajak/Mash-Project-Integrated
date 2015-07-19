@@ -5,7 +5,7 @@
 		{
 			$this->load->database();
 		}
-		public function get_press($limit =2){
+		public function get_press($limit =false){
 			$query = $this->db->get('press',$limit);
 			return $query->result_array();
 		}

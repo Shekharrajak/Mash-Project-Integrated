@@ -161,7 +161,7 @@
         <li>
             <div class="ch-item">             
                 <div class="ch-info">
-                    <div class="ch-info-front ch-shivangi-gupta"></div>
+                    <div class="ch-info-front ch-shivangi"></div>
                     <div class="ch-info-back">
                         <h4>Dedicated<br>Hard working<br>Bubbly<br>Cheerful<br>Amiable
                         </h4>
@@ -187,7 +187,7 @@
         <li>
             <div class="ch-item">             
                 <div class="ch-info">
-                    <div class="ch-info-front ch-smriti-mehra"></div>
+                    <div class="ch-info-front ch-smriti"></div>
                     <div class="ch-info-back">
                         <h4>Economics Enthusiast<br>Learner<br>Foodie<br>Optimist<br>Happy-go-lucky
                         </h4>
@@ -215,7 +215,7 @@
         <li>
             <div class="ch-item">             
                 <div class="ch-info">
-                    <div class="ch-info-front ch-namrata-gupta"></div>
+                    <div class="ch-info-front ch-namrata"></div>
                     <div class="ch-info-back">
                         <h4>Keen Learner<br>Tactful<br>Inexplicably Explicit<br>Undoubtedly Endearing<br>Food Freak
                         </h4>
@@ -316,7 +316,7 @@
 <li>
             <div class="ch-item">             
                 <div class="ch-info">
-                    <div class="ch-info-front ch-amanat-khullar"></div>
+                    <div class="ch-info-front ch-amanat"></div>
                     <div class="ch-info-back">
                         <h4>Traveler<br>Writer<br>Foodie<br>Wanderlust<br>Dreamer</h4>
                     </div>    
@@ -329,7 +329,7 @@
 <li>
             <div class="ch-item">             
                 <div class="ch-info">
-                    <div class="ch-info-front ch-misha-dwivedi"></div>
+                    <div class="ch-info-front ch-misha"></div>
                     <div class="ch-info-back">
                         <h4>Reader<br>Transient<br>Sarcastic<br>Filmy<br>Anomaly(lol)</h4>
                     </div>    
@@ -342,7 +342,7 @@
  <li>
             <div class="ch-item">             
                 <div class="ch-info">
-                    <div class="ch-info-front ch-siddhant-gupta"></div>
+                    <div class="ch-info-front ch-siddhant"></div>
                     <div class="ch-info-back">
                         <h4>Enthusiast<br>Committed<br>Technologist<br>& Design for Change</h4>
                     </div>    
@@ -489,7 +489,7 @@
     <li>
             <div class="ch-item">             
                 <div class="ch-info">
-                    <div class="ch-info-front ch-ishani-dutta"></div>
+                    <div class="ch-info-front ch-ishani"></div>
                     <div class="ch-info-back">
                         <h4>Adventurous<br>Bibliophile<br>Generous<br>Ambitious<br>Loves talking
                         </h4>
@@ -502,7 +502,7 @@
     <li>
             <div class="ch-item">             
                 <div class="ch-info">
-                    <div class="ch-info-front ch-jyoti-sandhu"></div>
+                    <div class="ch-info-front ch-jyoti"></div>
                     <div class="ch-info-back">
                         <h4>Technologically challenged<br>Ardent Cyclist<br> Free flowing in life<br>Compassionate<br>Ambitious<br>Happy Always
                         </h4>
@@ -528,7 +528,7 @@
     <li>
             <div class="ch-item">             
                 <div class="ch-info">
-                    <div class="ch-info-front ch-neha-rani"></div>
+                    <div class="ch-info-front ch-neha"></div>
                     <div class="ch-info-back">
                         <h4>Explorer<br>Hard-worker<br>Aesthete<br>Solo-traveller<br>Directioner
                         </h4>

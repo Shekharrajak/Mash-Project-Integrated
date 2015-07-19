@@ -371,3 +371,29 @@ Internship type: Work from home
 
         </div>
     </section>
+
+    <!--------------------------------------------PRESS------------------------------------------>
+    <section id="press">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title text-center">Press</h2>
+                <p class="text-center">From our very inception, we have based our growth on the lines of infinite reach. Our online and offline audience have grown every passing day, owing to the authenticity of our notion and beliefs. Below are a few articles to know that'll help you know us better.</p>
+            </div>
+
+            <div class="row">
+                <?php
+
+   
+          foreach ($results_press as $item_press) :
+
+                     extract($item_press);
+                // include 'templates/press.php';
+                  include 'C:\xampp1\htdocs\mashproject\application\views\templates\press.php';
+            endforeach
+                 ?>
+
+            </div>
+
+        </div>
+</section>
+

@@ -17,18 +17,20 @@ class Pages extends CI_Controller {
 			show_404();
 		}
 		$this->load->helper('url');
-		$data['results'] = $this->press_model->get_press(2);
+		//$data['results'] = $this->press_model->get_press(2);
 		$data['results_project'] = $this->project_model->get_project();
 		$data['results_event'] = $this->event_model->get_event();
+		$data['results_press'] = $this->press_model->get_press();
 		$data['size'] = 6;
 		$data['size_event'] = 4;
+		$data['press_size'] = 6;
 
 		$data['title'] = "Mash Project";
 		$this->load->view('templates/header.php',$data);
 		$this->load->view('templates/nav.php',$data);
-		$this->load->view('pages/'.$page.'.php');
-		$this->load->view('templates/press.php',$data);
-		$this->load->view('templates/footer.php',$data);
+		$this->load->view('pages/'.$page.'.php',$data);
+		//$this->load->view('templates/press.php',$data);
+		$this->load->view('templates/footer.php');
 	}
 
 	/*public function index()

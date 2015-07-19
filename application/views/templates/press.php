@@ -1,31 +1,27 @@
-<!--------------------------------------------PRESS------------------------------------------>
-    <section id="press">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title text-center">Press</h2>
-                <p class="text-center">From our very inception, we have based our growth on the lines of infinite reach. Our online and offline audience have grown every passing day, owing to the authenticity of our notion and beliefs. Below are a few articles to know that'll help you know us better.</p>
-            </div>
 
-            <div class="row">
-                <div class="col-sm-6 col-sm-offset-3">
+                <div class="col-sm-<?= $press_size ?> col-sm-offset-3">
                     <div class="press-post press-large">
                         <article>
                             <header class="entry-header">
                                 <div class="entry-thumbnail">
-                                    <img class="img-responsive" src="http://www.thealternative.in/wp-content/themes/sattva/images/logo.png" alt="">
+                                    <img class="img-responsive" src="<?= $press_title ?>" alt="null">
+                                   <!--  <h4>Experts Meeting</h4> 
+                                    <img src="<?= $press_thumb ?>" class="img-responsive"> -->
                                 </div>
                             </header>
 
                             <div class="entry-content">
-                                <P>They say, the best encouragement for an initiative to prosper, is it being noticed and appreciated.
-With immense pleasure, MASH Project shares with you all its own efforts of being noticed.</P>
-                                <a href="http://www.thealternative.in/lifestyle/the-mash-project-building-a-community-of-good-samaritans-through-apps/" class="btn btn-primary"target="_blank">Read More</a>
+                                <P>
+                                  <?= $press_content ?>
+
+                                </P>
+                                <a href="<?= $press_link ?>" class="btn btn-primary" target="_blank">Read More</a>
                             </div>
 
                         </article>
                     </div>
                 </div><!--/.col-sm-6-->
-                <div class="col-sm-6 col-sm-offset-3">
+               <!--  <div class="col-sm-6 col-sm-offset-3">
                     <div class="press-post press-large">
                         <article>
                             <header class="entry-header">
@@ -49,9 +45,6 @@ UNESCO seeks to extensively promote very high-quality, multi-lingual, comprehens
 
                         </article>
                     </div>
-                </div><!--/.col-sm-6-->
+                </div> --><!--/.col-sm-6-->
 
-            </div>
-
-        </div>
-    </section>
+          
