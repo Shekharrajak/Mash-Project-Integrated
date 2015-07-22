@@ -9,6 +9,16 @@
 <div class="container">
     <ul class="ch-grid">
 
+
+    <?php 
+        foreach ($results_team_present as $item) :
+
+                     extract($item);
+                // include 'templates/press.php';
+                  include 'C:\xampp1\htdocs\mashproject\application\views\templates\tmpl_team.php';
+            endforeach
+    ?>
+ <!-- 
         <li>
             <div class="ch-item">             
                 <div class="ch-info">
@@ -118,7 +128,7 @@
                         <p>Head<br>Admin<br><a href="http://about.me/harshita_srivastava" target="_blank" class="btn btn-primary">Know More</a></p>
         </li>
         
-<!-- ==================================================COORDINATORS========================================================================================== -->
+<!-- ==================================================COORDINATORS========================================================================================== 
      
         <br>   
         
@@ -153,7 +163,7 @@
             </div>
                         <h5>Anish Singh</h5>
                         <p>Coordinator<br>Content<br><a href="http://about.me/singhanish" target="_blank" class="btn btn-primary">Know More</a></p>
-        </li>  -->     
+        </li>    
         
        
              
@@ -300,20 +310,31 @@
                 </div>
             </div>
                         <h5>Tripti Lal</h5>
-        </li>
+        </li> -->
     </ul>
 </div>
 </div><br><br>
 
-<!-- ====================================================PAST TEAM MEMBERS================================================================= -->
-
+<!-- ====================================================PAST TEAM MEMBERS================================================================= 
+-->
 <div class="container-fluid" id="team">
     <div class="text-center well">
                 <h2 class="section-head">Past Team Members</h2>
     </div>
 <div class="container">
     <ul class="ch-grid">
-<li>
+       
+             <?php 
+        foreach ($results_team_past as $item) :
+
+                     extract($item);
+                // include 'templates/press.php';
+                  include 'C:\xampp1\htdocs\mashproject\application\views\templates\tmpl_team.php';
+            endforeach
+            ?>
+
+
+        <!-- <li>
             <div class="ch-item">             
                 <div class="ch-info">
                     <div class="ch-info-front ch-amanat"></div>
@@ -324,8 +345,8 @@
             </div>
                         <h5>Amanat Khullar</h5>
                         <p><a href="http://about.me/khullar.amanat" target="_blank" class="btn btn-primary">Know more</a></p>
-        </li>
-
+        </li> -->
+<!--
 <li>
             <div class="ch-item">             
                 <div class="ch-info">
@@ -559,7 +580,8 @@
                 </div>
             </div>
                         <h5>Ankush Pandey</h5>
-        </li>
+        </li> 
+        -->
      </ul>
     </div>
 </div><br>

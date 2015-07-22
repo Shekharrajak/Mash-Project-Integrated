@@ -1,0 +1,203 @@
+INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_doj`, `team_doc`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Mayank-Bhola.jpg","Mayank Bhola","Advisor<br>Development<br>","present","Developer<br>Epicure<br>Gadget-freak<br>Foodie<br>Sarcastic being","http://about.me/bholamayank","mayank",true)
+
+INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_doj`, `team_doc`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Kartik-Jain.jpg","Kartik Jain","Entrepreneur<br>Engineer<br>Social Activist<br>Tech Freak<br>Insanely Awesome<br>","Co-founder<br>","present","Developer<br>Epicure<br>Gadget-freak<br>Foodie<br>Sarcastic being","http://about.me/kartik.jain","kartik",1);
+
+
+
+INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Mehna-Jain.jpg","Mehna Jain","Engineer<br>Travel Buff<br>Keen learner<br>Foodie<br>Spiritual","Head<br>HR<br>","present","Developer<br>Epicure<br>Gadget-freak<br>Foodie<br>Sarcastic being","http://about.me/mehna.jain.3","mehna",0);
+
+ INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Sheerin.jpg","Sheerin Naseem","Head<br>Social Media<br>","present","Vivacious Core<br>Self Reliant<br>Animal lover<br>Art  enthusiast<br>Self driven","http://about.me/sheerinaseem","sheerin",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Shivani-Tiwari.jpg","Shivani Tiwari","Head<br>Finance<br","present","optimistic <br>sportsperson<br>aspiring<br>entrepreneur<br>passionate","http://about.me/shivani","shivani",0);
+
+ INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Gagandeep-Kaur.jpg","Gagandeep Kaur","<p>Head<br>Content<br>","present","Dedicated<br>Passionate<br>Creative<br>Vivacious Reader<br>Adventurer","http://about.me/gagandeepkaur","gagandeep",0);
+
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Harshita-Srivastava.jpg","Harshita Srivastava","Head<br>Admin<br>","present","Keen Educator<br>Quick Learner<br>Creator<br>Innovator<br>Easily Motivated","http://about.me/harshita_srivastava","harshita",1);
+
+
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Sachin-Srinivas.jpg","Sachin Srinivas","Coordinator<br>Content<br>","present","Happy go lucky<br>Hardcore Metal fan<br>Avid bird watcher <br>Dependable<br>Social butterfly","http://about.me/sachu_rocks001","sachin",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Shivangi-Gupta.jpg","Shivangi Gupta","Coordinator<br>Research<br>","present","Dedicated<br>Hard working<br>Bubbly<br>Cheerful<br>Amiable","http://about.me/guptashivangi3012","shivangi",0);
+
+
+ INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Shreeya-Bhutani.jpg","Shreeya Bhutani","Coordinator<br>Research","present","Fun <br>love dancing <br>couch potato <br>hard working <br>helpful","http://about.me/shreeyabhutani","shreeya",0);
+
+
+INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Smriti-Mehra.jpg","Smriti Mehra","Coordinator<br>Research<br>","present","Economics Enthusiast<br>Learner<br>Foodie<br>Optimist<br>Happy-go-lucky","http://about.me/mehrasmriti","smriti",0);
+
+
+INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Amandeep-Singh.jpg","Amandeep Singh","Coordinator<br>Development","present","Keen learner<br>Keen explorer<br>Adventurous <br>pragmatic<br>meticulous","http://about.me/ads93","amandeep",0);
+
+ INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Namrata-Gupta.jpg",">Namrata Gupta","Coordinator<br>Development<br>","present","Keen Learner<br>Tactful<br>Inexplicably Explicit<br>Undoubtedly Endearing<br>Food Freak
+                        ","http://about.me/nams05","namrata",0);
+ 
+ INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Pranit-Singhal.jpg","Pranit Singhal","Coordinator<br>Design<br>","present","Travel enthusiast<br> Entrepreneur<br> Ambitious<br> Gizmo freak<br> Art lover","http://about.me/pranitsinghal","pranit",0);
+ 
+ INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Sakshi-Mahajan.jpg","Sakshi Mahajan","Coordinator<br>Finance<br>","present","Hardworking<br>Trustworthy<br>Ambitious<br>Passionate <br>Caring","http://about.me/sakshi_mahajan","sakshi",0);
+ 
+----------------------------------------------------------------------------------------------------
+INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Aakriti-Saxena.jpg","Aakriti Saxena",null,"present",null,null,"aakriti"0);
+ INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Rishika-sharma.jpg","Rishika sharma",null,"present",null,null,"rishika",0);
+ INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Tanvi-Garg.jpg","Tanvi Garg",null,"present","Hard working<br>Voracious reader<br>Adventurous<br>Sensitive",null,"tanvi",0);
+ INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Tripti-Lal.jpg","Tripti Lal",null,"present","Very social<br>Voracious reader<br>Economics lover<br>Passionate about writing (hope to finish my book soon!)<br>Big foodie (love to eat food, not to experiment with it!)
+  ",null,"tripti",0);
+ INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Amanat-Khullar.jpg","Amanat Khullar",null,"past","Traveler<br>Writer<br>Foodie<br>Wanderlust<br>Dreamer","http://about.me/khullar.amanat","amanat",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Misha-Dwivedi.jpg","Misha Dwivedi",null,"past","Reader<br>Transient<br>Sarcastic<br>Filmy<br>Anomaly(lol)",null,"misha",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Siddhant-Gupta.jpg","Siddhant Gupta",null,"past","Enthusiast<br>Committed<br>Technologist<br>& Design for Change",null,"siddhant",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Varsha-Sivaram.jpg","Varsha Sivaram",null,"past","LSE aspirant<br>Budding writer<br>Believer<br>Learner<br>Thinker ","http://about.me/varsha.sivaram","varsha",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Shubham-Jain.jpg","Shubham Jain",null,"past","Ambitious<br>Procrastinator<br>Mysterious<br>Inquisitive<br>Versatile","http://about.me/cyber.shubham","shubham",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Ishan-Sain.jpg","Ishan Sain",null,"past","Audiophile<br>Art enthusiast <br>Movie Fanatic <br>Strums guitar <br>Total Procrastinator
+ ","http://about.me/ishansain","ishan",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Faiza-Hasan.jpg","Faiza Hasan",null,"past","Cinephile<br>ardent reader<br>food addict<br>headstrong<br>righteous","http://about.me/faizahasan","faiza",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Isha-Arora.jpg","Isha Arora",null,"past","Reading-freak<br>keen explorer<br>dynamic<br>wanderer<br>great talker","http://about.me/ishaarora","isha",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Shradha-Jain.jpg","Shradha Jain",null,"past","artist<br>nerd<br>exuberant<br>bibliophile<br>conscientious
+ ","http://about.me/shradha_jain","shradha",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Anish-Singh.jpg","Anish Singh",null,"past","Adorable <br>Not Innocent<br> Simply Honest","http://about.me/singhanish","anish",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Divya-Nakra.jpg","Divya Nakra",null,"past","Hardworking<br>Sincere<br>Inquisitive<br>Amiable<br>Vivacious","https://about.me/divyanakra100","divya-nakra",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Divya-Verma.jpg","Divya Verma",null,"past","Adventurous<br>Achiever<br>Unique<br>Wanderer<br>Believer","https://about.me/divyaverma23",divya-verma",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Hemant-Kumar.jpg","Hemant Kumar",null,"past","Creative<br>Techno Lingual<br>Fast Learner<br>Equanimous<br>Jocular","http://about.me/hemant6488","hemant",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Ishani-Dutta.jpg","Ishani Dutta",null,"past","Adventurous<br>Bibliophile<br>Generous<br>Ambitious<br>Loves talking","http://about.me/ishani_dutta","ishani",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Jyoti-Sandhu.jpg","Jyoti Sandhu",null,"past","Technologically challenged<br>Ardent Cyclist<br> Free flowing in life<br>Compassionate<br>Ambitious<br>Happy Always
+ ","https://about.me/jyoti.sandhu","jyoti",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Maalvika-Verma.jpg","Maalvika Verma",null,"past","Designer<br>Creative<br>Multiskilled<br>Observant<br>Dreamer","http://about.me/maalvika_verma","maalvika",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Neha-Rani.jpg","Neha Rani",null,"past","Explorer<br>Hard-worker<br>Aesthete<br>Solo-traveller<br>Directioner","http://about.me/rneha725","neha",0);
+
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Sonal-Chanana.jpg","Sonal Chanana",null,"past",null,null,"sonal",0);
+  
+  INSERT INTO `team`
+( `team_thumb`, `team_name`, `team_designation`, `team_status`, `team_desc`, `team_link`, `team_first_name`, `team_br`)
+ VALUES 
+ ("images/team/Ankush-Pandey.jpg","Ankush Pandey",null,"past","Technologist <br>Entrepreneur <br>Passionate <br>Innovator <br>Keen Traveller",null,"ankush",0);
+
+
+  update table set tag = lower(tag)
+  
