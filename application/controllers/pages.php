@@ -10,6 +10,7 @@ class Pages extends CI_Controller {
 			$this->load->model('team_model');
 			$this->load->model('project_model');
 			$this->load->model('event_model');
+			$this->load->model('partner_model');
 		}
 	public function view ( $page= 'home')
 	{
@@ -21,6 +22,7 @@ class Pages extends CI_Controller {
 		$data['results_project'] = $this->project_model->get_project();
 		$data['results_event'] = $this->event_model->get_event();
 		$data['results_press'] = $this->press_model->get_press();
+		$data['results_partner'] = $this->partner_model->get_partner();
 		//$data['results_team'] = $this->team_model->get_team();
 		$data['size'] = 6;
 		$data['size_event'] = 4;
