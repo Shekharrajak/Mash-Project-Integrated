@@ -24,7 +24,7 @@
 
 		}
 		public function get_team_past(){
-			$condition = "team_status =" . "'" . $past . "'";
+			$condition = "team_status =" . "'" . "past" . "'";
 			$this->db->select('*');
 			$this->db->from('team');
 			$this->db->where($condition);

@@ -327,20 +327,19 @@ Internship type: Work from home
             </div>
 
             <div class="row">
-                <div class="col-md-4">
-                    <div class="team-member">
-                        <div class="team-img">
-                            <img class="img-responsive" src="<?php echo base_url(); ?>images/partners/CoWorkIn-logo.jpg" alt="">
-                        </div>
-                        <div class="team-info text-center">
-                            <h3>coworking.co</h3>
-                            <span>Connect | Collaborate | CoWork</span>
-                        </div>
-                        <p>CoworkIn is a network of coworking spaces and their member coworkers to connect with the entrepreneurial and social community across the spaces. CoworkIn allows all members and spaces to interact with each other, share resources and build their own local communities.</p>
-                       
-                </div>
-                    </div>
-                <div class="col-md-4">
+
+            <?php
+
+   
+          foreach ($results_partner as $item_partner) :
+
+                     extract($item_partner);
+                // include 'templates/press.php';
+                  include 'C:\xampp1\htdocs\mashproject\application\views\templates\partner.php';
+            endforeach
+                 ?>
+               
+               <!--  <div class="col-md-4">
                     <div class="team-member ">
                         <div class="team-img">
                             <img class="img-responsive" src="<?php echo base_url(); ?>images/partners/human-circle-logo.png" alt="">
@@ -365,7 +364,7 @@ Internship type: Work from home
                         <p>Josh Talks is a platform that showcases India’s most inspiring stories to you. It features and highlights the struggle that people go through, the pain they have to suffer and the obstacles they have to overcome to reach their ultimate goal of success. It aims to disrupt you, move you, motivate you and inspire you.</p>
                     
                     </div>
-                </div>
+                </div> -->
 
             </div>
 
