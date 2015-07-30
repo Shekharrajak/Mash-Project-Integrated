@@ -9,10 +9,10 @@
 			$query = $this->db->get('team',$limit);
 			return $query->result_array();
 		}
-		$team_data['present'] = 'present';
-		$team_data['past'] = 'past';
+		//$team_data['present'] = 'present';
+		//$team_data['past'] = 'past';
 		public function get_team_present(){
-			$condition = "team_status =" . "'" . $present . "'";
+			$condition = "team_status =" . "'" . "present" . "'";
 			$this->db->select('*');
 			$this->db->from('team');
 			$this->db->where($condition);
